@@ -1,3 +1,9 @@
+---
+published: true
+permalink: /
+layout: default
+filename: index.md
+---
 
 ### My Talks
 
